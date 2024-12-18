@@ -24,6 +24,14 @@
 * 자산에 대한 접근제어의 시스템화 : 인사관리 시스템을 통한 직급별 권한관리
 * 업무 프로세스와의 연계 : 프로젝트 생성부터 통제, 폐기까지 One-stop solution으로 제공
 
+### ⚙️ 기술스택
+![React](https://img.shields.io/badge/React-001A6E?style=for-the-badge&logo=react)
+![javascript](https://img.shields.io/badge/javascript-074799?style=for-the-badge&logo=javascript)
+![SpringBoot](https://img.shields.io/badge/SpringBoot-001A6E?style=for-the-badge&logo=SpringBoot)
+![JAVA](https://img.shields.io/badge/JAVA-074799?style=for-the-badge&logo=java)
+![MariaDB](https://img.shields.io/badge/MariaDB-009990?style=for-the-badge&logo=mariaDB)
+
+
 
   
 
