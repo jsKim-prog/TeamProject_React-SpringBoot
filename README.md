@@ -31,6 +31,17 @@
 ![JAVA](https://img.shields.io/badge/JAVA-074799?style=for-the-badge&logo=java)
 ![MariaDB](https://img.shields.io/badge/MariaDB-009990?style=for-the-badge&logo=mariaDB)
 
+### 🖥️ 시스템 소개(동영상)
+* ▶️[Project IT ERP System 시스템 소개](https://youtu.be/QT4YqXozDk4 )
+* ▶️[Project IT ERP System 프로젝트 소개](https://youtu.be/poxXkw1LAxo)
+* ▶️[Part1 : 자원관리](https://youtu.be/J79f95sYelY)
+* ▶️[Part2 : 인사관리](https://youtu.be/i0dzts4lq3c)
+* ▶️[Part3 : 생산관리](https://youtu.be/CqbydysyuGA)
+
+### 📁 시스템 소개(PPT)
+
+
+
 
 
   
