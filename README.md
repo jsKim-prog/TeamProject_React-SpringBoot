@@ -39,6 +39,8 @@ IT 회사에서의 사업관리, 프로젝트 관리 시 느낀 문제점을 바
 * ▶️[Part3 : 생산관리](https://youtu.be/CqbydysyuGA)
 
 ### 📁 시스템 소개(ppt)
+<details><summary>Project IT PPT 소개자료 펼쳐보기</summary>
+  
 ![page01](https://github.com/user-attachments/assets/9e0285c8-285e-4631-8770-ea8bbd32c967)
 ![page02](https://github.com/user-attachments/assets/46b3ba28-4813-4fe4-ad89-b89f9d0676e1)
 ![page03](https://github.com/user-attachments/assets/7c8e7fb5-9093-4ef8-8c9f-9af7284a4438)
@@ -114,7 +116,7 @@ IT 회사에서의 사업관리, 프로젝트 관리 시 느낀 문제점을 바
 ![page73](https://github.com/user-attachments/assets/ce827c4c-abb5-4aae-a0e8-83cea6079231)
 ![page74](https://github.com/user-attachments/assets/6eb0b0d2-f078-497d-bb86-bad07d4db254)
 ![page75](https://github.com/user-attachments/assets/78949a20-972a-47b3-9c4f-d9a7f140112c)
-
+</details>
 
 
 
